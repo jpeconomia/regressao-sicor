@@ -12,3 +12,5 @@ As estimativas para os coeficientes deram todas estatisticamente significativas 
 |Recurso <br> Próprio|0.1252|0.046|Sim|
 |Juros|2562.6629|0.000|Sim|
 
+[Dados](https://www.bcb.gov.br/estabilidadefinanceira/tabelas-credito-rural-proagro)
+
