@@ -1,6 +1,6 @@
 # Regressão Linear com os Dados do Sicor
 
-Este Notebook apresenta uma regressão linear com os microdados disponibilizados pelo Sicor usando algumas variáveis chave para tentar avaliar o que explica o volume de crédito tomado. 
+Este Notebook apresenta uma regressão linear com os microdados disponibilizados pelo Sicor para o ano de 2024 usando algumas variáveis chave para tentar avaliar o que explica o volume de crédito tomado. Os dados são importados de forma bem desestruturada e um outro arquivo .py mostra como organizá-los para que este notebook seja reproduzível. 
 Alguns outliers são removidos usando técnicas apresentadas no livro An Introduction to Statistical Learning. 
 As estimativas para os coeficientes deram todas estatisticamente significativas ao nível de 5%. Entretanto, há indícios de que o erro dessa regressão não segue uma distribuição normal e é heteroscedástico.
 
