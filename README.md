@@ -13,8 +13,19 @@ As estimativas para os coeficientes deram todas estatisticamente significativas 
 |Juros|2562.6629|0.000|Sim|
 
 ![imagem 1](https://github.com/jpeconomia/regressao-sicor/blob/main/cov-matrix.png)
+
+<br>
+
 ![imagem 2](https://github.com/jpeconomia/regressao-sicor/blob/main/scatter.png)
+
+<br>
+
 ![imagem 3](https://github.com/jpeconomia/regressao-sicor/blob/main/hists.png)
+
+<br>
 ![imagem 4](https://github.com/jpeconomia/regressao-sicor/blob/main/plot.png)
+
+<br>
+
 [Dados](https://www.bcb.gov.br/estabilidadefinanceira/tabelas-credito-rural-proagro)
 
