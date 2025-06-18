@@ -23,6 +23,7 @@ As estimativas para os coeficientes deram todas estatisticamente significativas 
 ![imagem 3](https://github.com/jpeconomia/regressao-sicor/blob/main/hists.png)
 
 <br>
+
 ![imagem 4](https://github.com/jpeconomia/regressao-sicor/blob/main/plot.png)
 
 <br>
