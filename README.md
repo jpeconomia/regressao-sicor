@@ -6,11 +6,11 @@ As estimativas para os coeficientes deram todas estatisticamente significativas 
 
 |Variável|Coeficiente|p-valor|Significativo a 5%|
 |---|---|---|---|
-|Área <br> Financiada|2375.6845|0.000|Sim|
-|Receita <br> Esperada|0.2558|0.000|Sim|
-|Quantidade <br> produzida|0.0356|0.006|Sim|
-|Recurso <br> Próprio|0.1252|0.046|Sim|
-|Juros|2562.6629|0.000|Sim|
+|Área <br> Financiada|2277.1065|0.000|Sim|
+|Receita <br> Esperada|0.2549|0.000|Sim|
+|Quantidade <br> produzida|0.0318|0.006|Sim|
+|Recurso <br> Próprio|0.1228|0.046|Sim|
+|Juros|2885.4042|0.000|Sim|
 
 ![imagem 1](https://github.com/jpeconomia/regressao-sicor/blob/main/cov-matrix.png)
 
